@@ -37,17 +37,6 @@ body {
     border-top: 1px solid #eee;
 }
 
-.ribbon {
-    background: #eee;
-    text-align: center;
-    padding: 0 2em 0 2em;
-    color: #999;
-}
-    .ribbon h2 {
-        display: inline;
-        font-weight: normal;
-    }
-
 .footer {
     background: #111;
     color: #666;
